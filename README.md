@@ -1,7 +1,7 @@
 This is a project providing equations, code and input data to compute the area of forest loss due to fire and estimate accuracy of the resulting map in the following study: Tyukavina et al. (in review) "Global trends of forest loss due to fire, 2001-2019". For a detailed description of the study please refer to the publicaiton.
 
 Project files:
-* Equations.docx
+* Equations.docx - Equations from the Supplementary Information of Tyukavina et al. article
 * Compute_area_and_accuracy.ipynb - Python 3 code implementing the equations
 * Strata_info.txt - sampling design information 
 
