@@ -18,4 +18,4 @@ Project files:
    * "Stratum" - Stratum ID (1-N)
    * "Reference" - Reference sample value, 1 if sample pixel was identified as forest loss due to fire during the validation process, and 0 otherwise
    * "Pixarea" - Area of pixel in km2
-   * "Map" - Map value from the map adjusted to match sample-based estimate, with 1 corresponding to forest loss due to fire, and 0 - to forest loss due to other drivers. This is the version of the map used for area and trend reporting in the paper, where any forest loss within year 2000 zero % tree canopy cover (Hansen et al. 2013) is mapped as "forest loss due to other drivers".
+   * "Map" - Map value from the map adjusted to match sample-based estimate, with 1 corresponding to forest loss due to fire, and 0 - to forest loss due to other drivers or no forest loss. This is the version of the map used for area and trend reporting in the paper, where any forest loss within year 2000 zero % tree canopy cover (Hansen et al. 2013) is mapped as "no forest loss".
