@@ -1,4 +1,4 @@
-This is a project providing equations, code and input data to compute the area of forest loss due to fire and estimate accuracy of the resulting map in the following study: Tyukavina et al. (2022) "Global trends of forest loss due to fire, 2001-2019" [https://doi.org/10.3389/frsen.2022.825190](https://doi.org/10.3389/frsen.2022.825190) For a detailed description of the study please refer to the publicaiton.
+This is a project providing equations, code and input data to compute the area of forest loss due to fire and estimate accuracy of the resulting map in the following study: Tyukavina et al. (2022) "Global Trends of Forest Loss Due to Fire From 2001 to 2019" [https://doi.org/10.3389/frsen.2022.825190](https://doi.org/10.3389/frsen.2022.825190) For a detailed description of the study please refer to the publicaiton.
 
 Project files:
 * Equations.docx - Equations from the Supplementary Information of Tyukavina et al. article
